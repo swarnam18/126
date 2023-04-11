@@ -1,0 +1,62 @@
+#heading
+{
+  font-size: 40px;
+  width: 100%;
+  margin: 0px;
+  color: rgb(255, 255, 255);
+  font-family: 'Arizonia';
+}
+.note
+{
+  font-size:30px;
+  color: rgb(255, 255, 255);
+}
+body
+{
+  background-size: cover;	
+}
+  .div_speed
+  {
+  	float: left;
+  }
+  .div_speed_img
+  {
+  	width: 200px; 
+  	border-radius: 100px;
+  }
+  #speed
+  {
+  	font-size:50px;
+    color: white;
+  	margin: 15px;
+      font-family: 'Alex Brush';
+  }
+  .div_volume
+  {
+  	float: right;	
+  }
+  .div_volume_img
+  {
+  	width: 200px; 
+  	border-radius: 100px;
+  }
+  #volume
+  {
+  	font-size:50px;
+    color: rgb(0, 255, 0);
+  	margin: 15px;
+    font-family: 'Alex Brush';
+  }
+   #play_button
+  {
+  	width: 130px;
+  	font-size:50px;
+    color: aqua;
+    background: blue;
+    font-family: 'Allison';
+  }
+    canvas 
+  {
+    border:5px solid rgb(255, 166, 0);
+    border-radius:20px;
+  }
